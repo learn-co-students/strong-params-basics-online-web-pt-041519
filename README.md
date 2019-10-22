@@ -1,3 +1,4 @@
+.
 # Strong Params Basics
 
 ## What are Strong Params?
